@@ -5,9 +5,9 @@
 
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edwin%20N%C3%BA%C3%B1ez%20(Desarrollador%20y%20Estudiante)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" />
-  alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?color=0:0057ff,50:0057ff,100:00c1ff&height=250&section=header&text=Edwin%20N%C3%BA%C3%B1ez%20%7C%20Desarrollador%20y%20Estudiante&fontSize=35&type=waving&fontColor=fefefe&animation=fadeIn&fontAlign=50&textAlign=50&borderRadius=20" alt="header"/>
 </div>
+
 
 ## Hi there 👋
 
